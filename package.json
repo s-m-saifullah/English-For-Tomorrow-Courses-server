@@ -1,0 +1,9 @@
+{
+  "name": "englishfortomorrow-server",
+  "version": "1.0.0",
+  "description": "One stop solution for academic English",
+  "main": "index.js",
+  "repository": "https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-shaquille19.git",
+  "author": "S. M. Saifullah",
+  "license": "MIT"
+}
