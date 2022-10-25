@@ -4,7 +4,7 @@
     "id": 1,
     "description": "This course covers the eight parts of speech in the English language. Which are: noun, pronoun, verb, adjective, adverb, preposition, conjunction, and interjection. The 8 parts of speech teaches us how the word functions in meaning and grammatically within the sentence. An individual word can function as more than one part of speech when used in different circumstances. Understanding parts of speech is essential for determining the correct definition of a word when using the dictionary. ",
     "level": "Elementary",
-    "img_url": "https://i.postimg.cc/85rgNYWN/so-what-is-a-part-of-speech-anyway.png",
+    "img_url": "https://i.postimg.cc/0ywD0Cmb/Parts-of-speech.jpg",
     "topic_covered": [
       "What are parts of speech?",
       "Classification of parts of speech.",
@@ -17,7 +17,7 @@
     "id": 2,
     "description": "Choosing the right article such as ‘the’ or ‘a’ or ‘an’ to go with a noun is a tricky and difficult part of English grammar. This course will guide you through the key principles that you need to know to make accurate article choices in English. After we introduce the principles we give many examples and talk through the logic of article choice. Through exercises and quizzes you will gradually get better at making accurate choices which will make your speaking and writing better and give a more professional impression.",
     "level": "Elementary",
-    "img_url": "https://i.postimg.cc/bv9C04MN/Learn-Articles.jpg",
+    "img_url": "https://i.postimg.cc/bN66s8fp/Learn-Articles.jpg",
     "topic_covered": [
       "What are articles?",
       "Classification of articles.",
@@ -30,12 +30,25 @@
     "id": 3,
     "description": "Learn English grammar and prepositions by putting the prepositions in place to make correct English sentences. Preposition Mastery is a fun and educational course for kids and English language students of all ages who want to learn and improve their English language skills in a more entertaining way.",
     "level": "Intermediate",
-    "img_url": "https://i.postimg.cc/Y0jCwRRH/Presposition-Master.jpg",
+    "img_url": "https://i.postimg.cc/cHdGxXZj/Preposition-Master.jpg",
     "topic_covered": [
       "What is preposition?",
       "Classification of preposition",
       "Preposition usage",
       "Appropriate preposition"
+    ]
+  },
+  {
+    "name": "Narration Blaster",
+    "id": 4,
+    "description": "Most students often confuse direct and indirect speech with active and passive voice. Indirect and direct speech plays an important role in the English Grammar knowledge of students. Knowing when to use direct and indirect speech can help students form grammatically correct sentences. Getting direct and indirect speech exercises is quite easy. But getting the right kind of exercise that’s appropriate for your child’s age and understanding is difficult. To relieve you of this worry, English for Tomorrow brings age-appropriate direct and indirect speech exercises. These exercises will help the children to develop a clear understanding of this topic.",
+    "level": "Advanced",
+    "img_url": "https://i.postimg.cc/PrrcPgmd/Narration-Blaster.jpg",
+    "topic_covered": [
+      "What is narration/speech?",
+      "Direct and Indirect Narration.",
+      "How to change direct to indirect narration.",
+      "Changing passage narration."
     ]
   }
 ]
