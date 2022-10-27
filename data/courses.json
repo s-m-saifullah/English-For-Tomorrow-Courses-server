@@ -106,5 +106,59 @@
       "Full lifetime access",
       "Certificate of Completion"
     ]
+  },
+  {
+    "name": "Modifier Mania",
+    "id": 5,
+    "description": "In English grammar, a modifier is a word, phrase, or clause that functions as an adjective or adverb to provide additional information about another word or word group (called the head). A modifier is also known as an adjunct.Modifiers that appear before the head are called pre-modifiers, while modifiers that appear after the head are called post-modifiers. Modifiers may be either restrictive (essential to the meaning of a sentence) or nonrestrictive (additional but not essential elements in a sentence). In this course we will explore modifiers in details",
+    "level": "Intermediate",
+    "img_url": "https://i.postimg.cc/NjcG5sx4/Modifier-Mania.jpg",
+    "img_wide_url": "https://i.postimg.cc/sDnK2xyF/Modifier-Mania-wide.jpg",
+    "backgroundImg": "https://i.postimg.cc/3RBr1jym/breadcumb-bg.jpg",
+    "video_url": "https://www.youtube.com/embed/dnI9XvIvcsM",
+    "price": 1000,
+    "lessons": 16,
+    "duration": "13h 30m",
+    "quizzes": 7,
+    "topic_covered": [
+      "What are modifiers in English grammar?",
+      "Pre-modifiers and Post-modifiers.",
+      "Usage of modifiers.",
+      "How to fill in the gap using modifiers."
+    ],
+    "materials_included": [
+      "13+ hours on-demand video",
+      "6 articles",
+      "22 downloadable resources",
+      "Full lifetime access",
+      "Certificate of Completion"
+    ]
+  },
+  {
+    "name": "Pronoun Reference",
+    "id": 6,
+    "description": "In English grammar, reference is the relationship between a grammatical unit (usually a pronoun) that refers to (or stands in for) another grammatical unit (usually a noun or noun phrase). The noun or noun phrase that a pronoun refers to is called the antecedent.A pronoun may point back to other items in a text (anaphoric reference) or—less commonly—point ahead to a later part of the text. In traditional grammar, a construction in which a pronoun doesn't refer clearly and unambiguously to its antecedent is called faulty pronoun reference. In this course we will cover pronoun reference extensively.",
+    "level": "Advanced",
+    "img_url": "https://i.postimg.cc/zf1VTwS9/Pronoun-Reference.jpg",
+    "img_wide_url": "https://i.postimg.cc/HkTLxWYg/Pronoun-Reference-wide.jpg",
+    "backgroundImg": "https://i.postimg.cc/3RBr1jym/breadcumb-bg.jpg",
+    "video_url": "https://www.youtube.com/embed/As0QnOWlvWA",
+    "price": 1100,
+    "lessons": 18,
+    "duration": "18h",
+    "quizzes": 8,
+    "topic_covered": [
+      "What is pronoun reference?",
+      "Difference between pronoun reference and agreement.",
+      "Identifying pronoun reference error in a text.",
+      "Fixing pronoun reference errors."
+    ],
+    "materials_included": [
+      "18 hours on-demand video",
+      "4 articles",
+      "18 downloadable resources",
+      "Full lifetime access",
+      "Certificate of Completion"
+    ]
   }
 ]
